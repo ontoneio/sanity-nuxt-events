@@ -2,7 +2,7 @@
   "root": true,
   "project": {
     "name": "Sanity.io Test Nuxt.js",
-    "basePath": "/studio"
+    "basePath": "https://yellow-mud-0113fab1e.azurestaticapps.net/studio"
   },
   "api": {
     "projectId": "kl6r0mqv",

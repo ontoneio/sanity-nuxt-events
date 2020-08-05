@@ -22,6 +22,6 @@
     },
     "peacock.color": "#0fca08",
     "staticWebApps.appSubpath": "/",
-    "staticWebApps.apiSubpath": "/web/api",
-    "staticWebApps.appArtifactSubpath": "web/dist"
+    "staticWebApps.apiSubpath": "api/",
+    "staticWebApps.appArtifactSubpath": "studio/dist"
 }

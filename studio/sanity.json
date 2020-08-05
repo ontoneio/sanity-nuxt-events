@@ -1,7 +1,8 @@
 {
   "root": true,
   "project": {
-    "name": "Sanity.io Test Nuxt.js"
+    "name": "Sanity.io Test Nuxt.js",
+    "basePath": "/studio"
   },
   "api": {
     "projectId": "kl6r0mqv",

@@ -2,7 +2,7 @@
   "root": true,
   "project": {
     "name": "Sanity.io Test Nuxt.js",
-    "basePath": "/"
+    "basePath": "/studio"
   },
   "api": {
     "projectId": "kl6r0mqv",

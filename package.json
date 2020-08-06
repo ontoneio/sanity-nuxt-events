@@ -3,7 +3,7 @@
   "name": "sanity-nuxt-events",
   "version": "1.0.7",
   "scripts": {
-    "build": "lerna run build --parallel",
+    "build": "lerna run build --parallel && (cpx ./studio/dist/ ./web/dist/studio)",
     "dev": "lerna run dev --parallel",
     "format": "lerna run format",
     "build-studio": "lerna bootstrap && (cd studio && npm run build)",
@@ -15,6 +15,7 @@
   },
   "devDependencies": {
     "@sanity/cli": "^1.149.19",
+    "cpx": "^1.5.0",
     "lerna": "^3.22.1"
   }
 }

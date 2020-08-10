@@ -21,7 +21,7 @@
         "titleBar.inactiveForeground": "#e7e7e799"
     },
     "peacock.color": "#0fca08",
-    "staticWebApps.appSubpath": "/",
-    "staticWebApps.apiSubpath": "/web/api",
+    "staticWebApps.appSubpath": "web",
+    "staticWebApps.apiSubpath": "web",
     "staticWebApps.appArtifactSubpath": "web/dist"
 }

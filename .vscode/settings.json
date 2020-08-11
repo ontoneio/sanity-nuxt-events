@@ -23,5 +23,6 @@
     "peacock.color": "#0fca08",
     "staticWebApps.appSubpath": "web",
     "staticWebApps.apiSubpath": "web",
-    "staticWebApps.appArtifactSubpath": "web/dist"
+    "staticWebApps.appArtifactSubpath": "web/dist",
+    "yaml.format.enable": true
 }
